@@ -1,0 +1,14 @@
+{
+  "name": "onstartup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "onStartup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "pkg": "^5.8.1"
+  }
+}
